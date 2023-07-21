@@ -1,7 +1,8 @@
 <Response>
-  <Say>Hello</Say>
-  <Wait milliseconds="3000" />
+  <Answer />
+  <Say>Hello, you are calling 1207.</Say>
+  <Wait milliseconds="5000" />
   <Play digits="9" />
-  <Wait milliseconds="3000" />
+  <Wait milliseconds="5000" />
   <Hangup />
 </Response>
