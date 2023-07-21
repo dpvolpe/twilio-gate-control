@@ -1,0 +1,6 @@
+<Response>
+  <Say>Hello</Say>
+  <Wait milliseconds="3000" />
+  <Play digits="9" />
+  <Hangup />
+</Response>
